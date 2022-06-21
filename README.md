@@ -1,4 +1,4 @@
-# YouTube_Text_Classification
+# YouTube_Spam_Classification
 
 We will build a spam comment classification model to automatically filter spams in YouTube comments. The dataset is available here: http://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection
 
